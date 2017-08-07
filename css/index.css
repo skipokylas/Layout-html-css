@@ -251,6 +251,9 @@ p {
 .white {
     color: #ffffff;
 }
+.black{
+    color: black;
+}
 
 .strong_font {
     font-weight: 600;
