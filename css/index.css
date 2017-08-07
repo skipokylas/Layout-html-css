@@ -13,7 +13,6 @@ footer {
 }
 
 main>section {
-    /*border-top-style: solid;*/
     margin: 0;
 }
 
@@ -111,6 +110,10 @@ p {
     display: none;
 }
 
+.sevice_rows {
+    min-width: 25%;
+}
+
 .sevice_rows img {
     position: relative;
     z-index: 2;
@@ -145,6 +148,10 @@ p {
     background-size: cover;
 }
 
+#map {
+    height: 400px;
+    width: 100%;
+}
 
 #we_make {
     background-image: url("../img/back2.png");
@@ -232,10 +239,6 @@ p {
     margin-bottom: 80px;
 }
 
-.sevice_rows {
-    padding-left: 20px;
-    padding-right: 20px;
-}
 
 .yellow {
     color: #ffe500;
